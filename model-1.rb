@@ -8,3 +8,6 @@ kids = 1.5
 happy = true
 sad = false
 hungry = true
+
+dogs = ["Xena","Daisy"]
+dinner = ["lamb", "cheese", "veggies"]
